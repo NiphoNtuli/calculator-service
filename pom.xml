@@ -9,7 +9,7 @@
     <name>Calculator Service</name>
     <description>A simple calculator service using Spring Boot</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
         <spring-boot.version>3.0.0</spring-boot.version>
     </properties>
 
